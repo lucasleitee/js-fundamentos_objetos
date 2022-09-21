@@ -27,6 +27,6 @@ function imprimeDados({nome,idade}){
 
 imprimeDados(pessoa)
 
-
+console.log(numeros)
 // console.log(pessoa)
 // console.log(pessoaCTelefone)
